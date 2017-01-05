@@ -1930,7 +1930,6 @@ input.ct-red + span + label + span.switch-right {
 
 /*      Navbar with icons            */
 .navbar-icons.navbar .navbar-brand {
-  margin-top: 22px;
   margin-bottom: 0px;
 }
 .navbar-icons .navbar-nav > li > a {
