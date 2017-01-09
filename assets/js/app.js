@@ -185,7 +185,7 @@ function getDistance(p1, p2) {
 
 $(function(){
   $(".typewriter").typed({
-    strings: ["It's Time To Launch Your Idea","Get MVP Done Within a Month", "Mobile App/ Web App Development From Scratch."],
+    strings: ["It's Time To Launch Your Idea","Get MVP Done Within a Month", "Mobile/Web App Development.","Awesomeness Redefined"],
     typeSpeed: 0.1,
     loop: true,
   });

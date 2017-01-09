@@ -1930,7 +1930,7 @@ input.ct-red + span + label + span.switch-right {
 
 /*      Navbar with icons            */
 .navbar-icons.navbar .navbar-brand {
-  margin-bottom: 0px;
+  /*margin-bottom: 0px;*/
 }
 .navbar-icons .navbar-nav > li > a {
   text-align: center;
@@ -2193,7 +2193,7 @@ input.ct-red + span + label + span.switch-right {
 
 .subscribe-line {
   background-color: #FFFFFF;
-  padding: 25px 0;
+  /*padding: 25px 0;*/
 }
 .subscribe-line .form-group {
   margin: 0;

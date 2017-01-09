@@ -29,7 +29,7 @@
     <link href='//fonts.googleapis.com/css?family=Grand+Hotel|Open+Sans:400,300'
           rel='stylesheet' type='text/css'>
 </head>
-<body class="home" style=" margin: 100px auto; overflow-y: scroll;">
+<body class="home" style=" margin-top: 100px; overflow-y: scroll;">
 <div class="wrapper">
     <nav class="navbar navbar-ct-azure   navbar-icons navbar-fixed-top navbar-inverse navbar-white "
          role="navigation">
@@ -89,7 +89,7 @@
     </nav>
 
     <div class=" col-md-8 col-md-offset-2">
-    <h2 class="text-center section-title">Apps Crafted by Lucid.Tech</h2>
+    <h2 class="text-center section-title">Apps Crafted by Fylabs</h2>
     <hr>
         <div id="js-filters-juicy-projects" class="cbp-l-filters-button">
         <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">
@@ -321,41 +321,107 @@
 <div class="separator"></div>
 
 <div style="clear:both"></div>
- <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
+
 <footer class="footer footer-big footer-transparent"
-        style="background-image: url('assets/img/o-BUSINESS-MEETING-facebook.jpg')">
+        style="background-image: url('assets/img/o-BUSINESS-MEETING-facebook.jpg');margin-top: 200px;">
 
     <!-- .footer-black is another class for the footer, for the transparent version, we recommend you to change the url of the image with your favourite image.          -->
 
     <div class="container">
+        <div class="row" ng-if="location==='/' || location===''">
+            <div class="col-md-5">
+                <h5 class="title">About Fylabs</h5>
+                <p style="font-weight: 300;color: #9A9A9A;">A team of energetic enthusiasts and explorers who always crave for creative innovation.</p>
+
+            </div>
+            <div class="col-md-3 col-md-offset-1">
+                <h5 class="title">Company</h5>
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="http://www.confusedbox.com">
+                                Blog
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="works.html">
+                                Works
+                            </a>
+                        </li>
+                        <!--<li>-->
+                            <!--<a href="#">-->
+                                <!--Terms & Conditions-->
+                            <!--</a>-->
+                        <!--</li>-->
+                        <!--             <li>
+                                         <a href="#">
+                                             About Us
+                                         </a>
+                                     </li>-->
+                        <!--<li>
+                            <a href="#" class="text-info">
+                                We are hiring!
+                            </a>
+                        </li>-->
+                    </ul>
+                </nav>
+            </div>
+            <div class="col-md-3">
+                <h5 class="title">Happy people</h5>
+                <nav class="numbers">
+                    <ul>
+                        <li>
+                            <h4><span class="count">40</span> +
+                                <small>Businesses</small>
+                            </h4>
+                        </li>
+                        <li>
+                            <h4><span class="count">10</span> +
+                                <small>Experts</small>
+                            </h4>
+                        </li>
+                        <li>
+                            <h4><span class="count">30</span>
+                                <small>Live Projects</small>
+                            </h4>
+                        </li>
+
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <!-- <p ng-if="location!=='/' || location!==''" class="text-center"
+            style="color:#666"> "Some Random Quote" ~ Vivek</p>-->
+        <br/>
+        <hr style="margin-top:0px" ng-if="location==='/' || location===''"/>
         <div class="social-area text-center">
             <h5>We are social</h5>
             <a href="https://www.facebook.com/bytenub/"
                target="_blank"  class="btn btn-social btn-round">
                 <i class="fa fa-facebook"></i>
             </a>
-            <a href="https://twitter.com/EazyFoxIN"
+            <a href="https://twitter.com/fylabs"
                target="_blank" class="btn btn-social btn-round">
                 <i class="fa fa-twitter"></i>
             </a>
-            <a href="https://plus.google.com/110988392785009288148/posts?hl=en-GB"
-               target="_blank" class="btn btn-social btn-round">
-                <i class="fa fa-google-plus"></i>
-            </a>
-            <a href="https://www.linkedin.com/company/eazyfox"
-               target="_blank" class="btn btn-social btn-round">
-                <i class="fa fa-linkedin"></i>
-            </a>
+            <!--<a href="https://plus.google.com/110988392785009288148/posts?hl=en-GB"-->
+               <!--target="_blank" class="btn btn-social btn-round">-->
+                <!--<i class="fa fa-google-plus"></i>-->
+            <!--</a>-->
+            <!--<a href="https://www.linkedin.com/company/eazyfox"-->
+               <!--target="_blank" class="btn btn-social btn-round">-->
+                <!--<i class="fa fa-linkedin"></i>-->
+            <!--</a>-->
         </div>
 
         <div class="copyright">
-            &copy; 2016 Lucid . Tech Ltd.
+            &copy; 2016 Foxwhiz Technologies Pvt. Ltd.
         </div>
     </div>
 </footer>
