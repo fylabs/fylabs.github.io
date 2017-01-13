@@ -74,6 +74,7 @@ h1,h2,h3,h4{
 
 .navbar-white.navbar .navbar-brand {
     color: #00B57B!important;
+    margin:10px;
 }
 
 .small-nav-blue {
