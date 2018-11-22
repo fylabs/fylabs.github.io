@@ -41,7 +41,7 @@ h1,h2,h3,h4{
 
 .navbar-white {
     background-color: #fff !important;
-    color: #00B57B!important;
+    color: #391461!important;
     border-bottom: 1px solid #391461;
 }
 
@@ -67,7 +67,7 @@ h1,h2,h3,h4{
 }
 
 .navbar-white li a .caret {
-    color: #00B57B!important;
+    color: #391461!important;
     border-bottom-color: #391461!important;
     border-top-color: #391461!important;
 }
@@ -115,7 +115,7 @@ h1,h2,h3,h4{
 }
 
 .btn-blue {
-    background-color: #00B57B!important;
+    background-color: #391461!important;
     opacity: 1 !important;
     border: none !important;
     color: #fff !important;
@@ -188,12 +188,12 @@ h1,h2,h3,h4{
     font-weight: 300;
     display: inline-block;
     padding-bottom: 10px;
-    border-bottom: 1px solid #00B57B;
-    color: #00B57B;
+    border-bottom: 1px solid #391461;
+    color: #391461;
 }
 
 .section-title small {
-    color: #00B57B;
+    color: #391461;
 }
 
 .subscribe-line .section-title {
@@ -231,19 +231,19 @@ h1,h2,h3,h4{
     margin-top: 12px;
     font-size: 160%;
     margin-bottom: 12px;
-    color: #00B57B;
+    color: #391461;
 }
 
 .kd-cards {
     background: #FFF;
     /*border-radius: 6px;*/
-    color: #00B57B;
+    color: #391461;
     padding: 25px;
     margin-right: 1.65%;
     margin-left: 1.65%;
     margin-top: 25px;
     width: 30% !important;
-    border: 2px solid #00B57B;
+    border: 2px solid #391461;
 }
 
 .kd-cards:hover {
@@ -505,7 +505,7 @@ h1,h2,h3,h4{
     padding: 28px 0px !important;
 
     background-color: #f4f6f7;
-    color: #00B57B;
+    color: #391461;
     margin: -6.6px;
 }
 
@@ -638,8 +638,8 @@ h1,h2,h3,h4{
 
 .select-blue {
     width: auto;
-    border-color: #00B57B;
-    color: #00B57B;
+    border-color: #391461;
+    color: #391461;
     /*
             font-weight: bold;
     */
@@ -650,29 +650,29 @@ h1,h2,h3,h4{
 }
 
 .select-blue .caret {
-    border-top-color: #00B57B;
+    border-top-color: #391461;
 }
 
 /*TOOLTIP COLORS*/
 .blue .tooltip-inner {
-    background: #00B57B;
+    background: #391461;
     color: #fff;
 }
 
 .blue.bottom .tooltip-inner:after {
-    border-bottom-color: #00B57B;
+    border-bottom-color: #391461;
 }
 
 .blue.top .tooltip-inner:after {
-    border-top-color: #00B57B;
+    border-top-color: #391461;
 }
 
 .blue.left .tooltip-inner:after {
-    border-left-color: #00B57B;
+    border-left-color: #391461;
 }
 
 .blue.right .tooltip-inner:after {
-    border-right-color: #00B57B;
+    border-right-color: #391461;
 }
 
 .orange .tooltip-inner {
@@ -735,11 +735,11 @@ h1,h2,h3,h4{
 }
 
 .sign-up-form label {
-    color: #00B57B;
+    color: #391461;
 }
 
 .sign-up .btn-group .actv {
-    background: #00B57B;
+    background: #391461;
     color: white;
     opacity: 1;
 }
@@ -791,22 +791,22 @@ h1,h2,h3,h4{
 }
 
 .add-info-card {
-    border: 1px solid #00B57B;
+    border: 1px solid #391461;
     padding-top: 13px;
     padding-bottom: 13px;
 }
 
 .add-info-card .form-group label {
-    color: #00B57B;
+    color: #391461;
     font-size: 15px;
     font-weight: 300;
     padding-left: 1px;
 }
 
 .blue-form-control {
-    border: 1px solid #00B57B;
+    border: 1px solid #391461;
     border-radius: 0px;
-    color: #00B57B;
+    color: #391461;
 }
 
 .blue-form-control:focus {
@@ -814,8 +814,8 @@ h1,h2,h3,h4{
 }
 
 .label-blue {
-    color: #00B57B;
-    border-color: #00B57B;
+    color: #391461;
+    border-color: #391461;
 }
 
 .label-orange {
@@ -1010,8 +1010,8 @@ legend {
     width: 65.5%;
     padding: 6px;
     border-width: 1px;
-    border-color: #00B57B;
-    color: #00B57B;
+    border-color: #391461;
+    color: #391461;
     border-radius: 3px;
     margin-top: 10px;
 }
@@ -1022,9 +1022,9 @@ legend {
 }
 
 .project-card {
-    border: 1px solid #00B57B;
+    border: 1px solid #391461;
     margin-bottom: 21px;
-    color: #00B57B;
+    color: #391461;
 }
 
 .project-card h2 {
@@ -1037,7 +1037,7 @@ legend {
 .project-card li {
     list-style: none;
     margin-top: 10px;
-    color: #00B57B;
+    color: #391461;
 }
 
 .project-card .tagsinput {
@@ -1060,7 +1060,7 @@ legend {
 }
 
 .btn-blue-sharp {
-    background-color: #00B57B;
+    background-color: #391461;
     color: #FFF !important;
     opacity: 1 !important;
     border: none !important;
@@ -1093,7 +1093,7 @@ legend {
 
 
 .blue-link {
-    color: #00B57B;
+    color: #391461;
 }
 
 .blue-link:hover {
@@ -1162,7 +1162,7 @@ legend {
 }
 
 .panel-gray > .panel-heading h3 i {
-    color: #00B57B;
+    color: #391461;
     font-size: 28px;
     vertical-align: middle;
     margin-top: -5px;
@@ -1186,8 +1186,8 @@ legend {
 
 .panel-blue > .panel-heading {
     color: #fff;
-    background-color: #00B57B;
-    border-color: #00B57B;
+    background-color: #391461;
+    border-color: #391461;
     border-radius: 0px;
 }
 
@@ -1196,7 +1196,7 @@ legend {
 }
 
 .panel-blue > .panel-heading h3 i {
-    color: #00B57B;
+    color: #391461;
     font-size: 22px;
     vertical-align: middle;
     margin-top: -5px;
@@ -1236,20 +1236,20 @@ legend {
 .main-box {
     padding: 0px;
     padding-bottom: 20px;
-    border: 1px solid #00B57B;
+    border: 1px solid #391461;
     margin-top: 10px;
     margin-bottom: 17px;
 }
 
 .main-box h3 {
     padding-left: 10px;
-    color: #00B57B;
+    color: #391461;
     font-weight: 300;
     font-size: 23px;
 }
 
 .stats-box {
-    background: #00B57B;
+    background: #391461;
     padding-bottom: 10px;
     margin-left: 5px;
     margin-top: 10px;
@@ -1276,7 +1276,7 @@ legend {
 
 .stats-box .project-status {
     background: #fff;
-    color: #00B57B;
+    color: #391461;
     font-weight: 300;
     font-size: 19px;
     margin-left: 9px;
@@ -1423,28 +1423,28 @@ legend {
 
 /*PROJECT PAGE CSS START*/
 .project-description-box {
-    border: 1px solid #00B57B;
+    border: 1px solid #391461;
     margin-bottom: 20px;
     padding-top: 10px;
     padding-bottom: 5px;
 }
 
 .project-description-box b {
-    color: #00B57B;
+    color: #391461;
     font-size: 15px;
 }
 
 .project-description-box h2 {
     font-weight: 300;
     font-size: 42px;
-    color: #00B57B;
+    color: #391461;
     text-transform: capitalize;
     margin-top: 0px;
 }
 
 .project-description-box h3 {
     font-weight: 300;
-    color: #00B57B;
+    color: #391461;
     text-transform: capitalize;
     font-size: 20px;
 }
@@ -1471,10 +1471,10 @@ legend {
 }
 
 .btn-blue-border {
-    border: 1px solid #00B57B;
+    border: 1px solid #391461;
     border-radius: 0px;
     background-color: white;
-    color: #00B57B;
+    color: #391461;
 }
 
 .project-description-box hr {
@@ -1484,7 +1484,7 @@ legend {
 }
 
 .project-description-box label {
-    color: #00B57B;
+    color: #391461;
     font-weight: 300;
     line-height: 38px;
 }
@@ -1495,16 +1495,16 @@ legend {
 }
 
 .form-control {
-    border: 1px solid #00B57B;
+    border: 1px solid #391461;
 }
 
 .input-group-addon {
-    border: 1px solid #00B57B;
-    color: #00B57B;
+    border: 1px solid #391461;
+    color: #391461;
 }
 .project-description-sidebar{
-    border: 1px solid #00B57B;
-    background:#00B57B;
+    border: 1px solid #391461;
+    background:#391461;
     padding:10px;
     color:#fff;
 }
@@ -1531,7 +1531,7 @@ legend {
 /*PROJECT PAGE CSS END*/
 /*COMMON CSS START*/
 .blue-border{
-    border: 1px solid #00B57B;
+    border: 1px solid #391461;
 }
 .pt10{
     padding-top:10px;
@@ -1561,7 +1561,7 @@ legend {
     margin-bottom:10px;
 }
 .blue-font{
-    color: #00B57B;
+    color: #391461;
 }
 .orange-font{
     color: #FC601A;
@@ -1578,7 +1578,7 @@ legend {
 /*COMMON CSS END*/
 
 .milestone-white{
-    background-color: #00B57B;
+    background-color: #391461;
     color: #fff;
     border: 1px solid #e2e2e2;
 }
@@ -1667,12 +1667,12 @@ legend {
 }
 
 tags-input .tags{
-    border: 1px solid #00B57B;
+    border: 1px solid #391461;
     box-shadow:none;
     -webkit-appearance: none;
 }
 tags-input .tags .tag-item {
-    background: #00B57B;
+    background: #391461;
     border: 1px solid #6890C9;
     padding: 0px 11px;
     color: white;
@@ -1682,7 +1682,7 @@ tags-input .tags .tag-item .remove-button{
 }
 .tour-tip{
     padding-right:26px;
-    background: #00B57B!important;
+    background: #391461!important;
 }
 .tour-tip .tour-arrow.tt-top{
     border-color: #00B57Btransparent transparent transparent !important
