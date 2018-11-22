@@ -9,12 +9,12 @@ h1,h2,h3,h4{
 }
 
 .navbar-kd-blue {
-    background-color: #00B57B!important;
+    background-color: #391461!important;
     color: #fff !important;
     height: 60px;
 }
 .form-control{
-    border-color:#00B57B;
+    border-color:#391461;
 }
 .navbar-kd-blue .navbar-brand {
     background: url("/assets/img/log_white.png");
@@ -42,7 +42,7 @@ h1,h2,h3,h4{
 .navbar-white {
     background-color: #fff !important;
     color: #00B57B!important;
-    border-bottom: 1px solid #00B57B;
+    border-bottom: 1px solid #391461;
 }
 
 .navbar-white .navbar-brand a {
@@ -63,17 +63,17 @@ h1,h2,h3,h4{
 }
 
 .navbar-white li a {
-    color: #00B57B!important;
+    color: #391461!important;
 }
 
 .navbar-white li a .caret {
     color: #00B57B!important;
-    border-bottom-color: #00B57B!important;
-    border-top-color: #00B57B!important;
+    border-bottom-color: #391461!important;
+    border-top-color: #391461!important;
 }
 
 .navbar-white.navbar .navbar-brand {
-    color: #00B57B!important;
+    color: #391461!important;
     margin:10px;
 }
 
