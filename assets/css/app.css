@@ -1685,17 +1685,17 @@ tags-input .tags .tag-item .remove-button{
     background: #391461!important;
 }
 .tour-tip .tour-arrow.tt-top{
-    border-color: #00B57Btransparent transparent transparent !important
+    border-color: #391461 transparent transparent transparent !important
 }
 
 .tour-tip .tour-arrow.tt-right{
-    border-color: transparent #00B57Btransparent transparent !important
+    border-color: transparent #391461 transparent transparent !important
 }
 .tour-tip .tour-arrow.tt-bottom{
-    border-color: transparent transparent #00B57B transparent !important
+    border-color: transparent transparent #391461 transparent !important
 }
 .tour-tip .tour-arrow.tt-left{
-    border-color: transparent transparent  transparent #00B57B!important
+    border-color: transparent transparent  transparent #391461!important
 }
 .tour-tip button, .tour-tip .button{
     background-color: #000;
@@ -1716,7 +1716,7 @@ tags-input .tags .tag-item .remove-button{
         min-height: 455px !important;
     }
     .navbar-header .navbar-toggle{
-        background-color: #00B57B!important;
+        background-color: #391461!important;
         padding-left: 8px;
     }
     .btn-lg {
@@ -1739,7 +1739,7 @@ tags-input .tags .tag-item .remove-button{
         width: 50% !important;
     }
     .business-dashboard .nav-pills > li > a{
-        color: #00B57B!important;
+        color: #391461!important;
         padding: 17px 10px !important;
         font-size: 16px !important;
 
@@ -1793,5 +1793,5 @@ tags-input .tags .tag-item .remove-button{
     background-color: #FFFFFF;
     opacity: 1 !important;
     border: none !important;
-    color: #00B57B !important;
+    color: #391461 !important;
 }
